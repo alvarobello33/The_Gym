@@ -1,0 +1,79 @@
+MetaVersion: 1
+MarketplaceDetails {
+  Id: "68c1fc8ab1944b488e5a3131de8b24be"
+  OwnerAccountId: "d2bd8c72412d4e09917e90e6c4a0fc6b"
+  OwnerName: "HAndLol"
+  Version: "1.0.0"
+}
+AssetIdsOriginalToNew {
+  key: 124223942805518017
+  value: 14805320304358069279
+}
+AssetIdsOriginalToNew {
+  key: 229797149587534148
+  value: 1929578519578917438
+}
+AssetIdsOriginalToNew {
+  key: 1552983951877921585
+  value: 6778468939473181622
+}
+AssetIdsOriginalToNew {
+  key: 2220068369338899761
+  value: 6512866834314542980
+}
+AssetIdsOriginalToNew {
+  key: 5504414993577664699
+  value: 9838917343552326054
+}
+AssetIdsOriginalToNew {
+  key: 6061433341884501698
+  value: 5921580624214208839
+}
+AssetIdsOriginalToNew {
+  key: 7542500657506786929
+  value: 11595699481594262872
+}
+AssetIdsOriginalToNew {
+  key: 11555128341382079028
+  value: 15676185294884881110
+}
+AssetIdsOriginalToNew {
+  key: 12063768013405039088
+  value: 4864962358580929977
+}
+AssetIdsOriginalToNew {
+  key: 12439034694186114331
+  value: 10329282711514067259
+}
+AssetIdsOriginalToNew {
+  key: 12573024161877507497
+  value: 3736891886549100383
+}
+AssetIdsOriginalToNew {
+  key: 13011013786974229137
+  value: 17840697275430184261
+}
+AssetIdsOriginalToNew {
+  key: 13335793032196277064
+  value: 4504158695729672341
+}
+AssetIdsOriginalToNew {
+  key: 15243823443596967736
+  value: 16848170423034534469
+}
+AssetIdsOriginalToNew {
+  key: 16718107408556415330
+  value: 15850163906784744461
+}
+AssetIdsOriginalToNew {
+  key: 16878662899677166193
+  value: 11079377274714092937
+}
+AssetIdsOriginalToNew {
+  key: 17519606379991732980
+  value: 13097328784586997193
+}
+AssetIdsOriginalToNew {
+  key: 17553961697123284389
+  value: 6953189689626676378
+}
